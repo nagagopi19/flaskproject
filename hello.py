@@ -8,4 +8,5 @@ def hello_world():
     return "<p>Hello, Devops!</p>"
 =======
     return "<p>Hello, World!</p>"
+    return "<p>Hello, Checkred!</p>
 >>>>>>> d7c1ae90e942844449533018811e1ac62a11fe29
